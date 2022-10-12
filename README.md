@@ -1,3 +1,6 @@
+# Richman 開發紀錄
+https://www.youtube.com/watch?v=2Oi13ugHNkE&list=PLMtYN6joopDSdHbVXJJ26RXioPceuOgqj&index=1
+
 # Richman 遊戲說明
 
 ### 遊戲房間
